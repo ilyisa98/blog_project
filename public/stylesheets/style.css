@@ -1,0 +1,68 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-image: url(../images/800px_COLOURBOX26718750.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+    width: 100%;
+}
+
+.navbar{
+    position: fixed !important;
+    width: 100%;
+}
+
+.logo{
+    margin-top: -10px;
+}
+
+.nav_input{
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+form{
+   color: white;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.jumbotron{
+    background-image: url(../images/a0425922228_16.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color:black !important;
+    height: 35vh !important;
+}
+.panel{
+    filter: drop-shadow(4px 4px 10px rgba(0,0,0,0.9));
+}
+
+.panel-heading {
+  background-color: #222222 !important;
+}
+.panel-heading h3{
+  color: white;
+}
+.container{
+    background-color:rgba(0,0,0,0.9); 
+    border-radius: 10px;
+}
+.row{
+    padding: 50px !important;
+}
+.index_img{
+    margin-left: 25%
+}
+.home_blog{
+    height: 400px;
+    overflow: hidden;
+}
+
+.footer, .read_more{
+    background-color: #222222 !important;
+    color: white !important;
+}
